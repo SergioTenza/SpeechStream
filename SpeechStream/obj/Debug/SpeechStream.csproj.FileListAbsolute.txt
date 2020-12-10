@@ -1,0 +1,30 @@
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe.config
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.pdb
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.Properties.Resources.resources
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.exe
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.pdb
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.StreamSpeechAssistan.resources
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.dll
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.xml
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CopyComplete
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.dll
+C:\Users\serge\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.xml
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe.config
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.exe
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\SpeechStream.pdb
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.dll
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.dll
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\NAudio.xml
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\bin\Debug\WindowsInput.xml
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csprojAssemblyReference.cache
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.StreamSpeechAssistan.resources
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.Properties.Resources.resources
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.GenerateResource.cache
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CoreCompileInputs.cache
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.csproj.CopyComplete
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.exe
+H:\EXTERNO FUNPHOTOS\source\repos\SpeechStream\SpeechStream\obj\Debug\SpeechStream.pdb
